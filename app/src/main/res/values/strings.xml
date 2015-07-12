@@ -1,6 +1,10 @@
 <resources>
     <string name="app_name">FirstTask</string>
 
+<<<<<<< HEAD
     <string name="hello_world">Hello PAULA!</string>
+=======
+    <string name="hello_world">Hello POLAND!</string>
+>>>>>>> 8669c0d... Second Commit
     <string name="action_settings">Settings</string>
 </resources>
